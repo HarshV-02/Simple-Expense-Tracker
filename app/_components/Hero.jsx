@@ -10,13 +10,13 @@ function Hero() {
             <span className="sm:block"> Control your Money </span>
           </h1>
 
-          <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
+          <p className="text-black mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
             Start creating your budget and save ton of money
           </p>
 
           <div className="mt-8 flex flex-wrap justify-center gap-4">
             <a
-              className="block w-full rounded border border-red-600 bg-red-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75 sm:w-auto"
+              className="block w-full rounded border border-red-600 bg-red-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-black focus:outline-none focus:ring active:text-opacity-75 sm:w-auto"
               href="/sign-in"
             >
               Get Started

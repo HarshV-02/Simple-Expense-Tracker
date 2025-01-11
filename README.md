@@ -47,7 +47,7 @@ PostgreSQL
 
 **1) Clone the repository:**
 
-git clone https://github.com/soumilaggarwal2003/Expense-Tracker
+git clone https://github.com/HarshV-02/Simple-Expense-Tracker.git
 
 cd expense-tracker
 
@@ -107,3 +107,5 @@ Drizzle ORM Documentation
 PostgreSQL Documentation
 
 Tailwind CSS Documentation
+# 
+Simple-Expense-Tracker

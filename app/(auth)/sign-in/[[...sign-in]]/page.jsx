@@ -32,7 +32,7 @@ export default function Page() {
             </h2>
 
             <p className="mt-4 leading-relaxed text-white/90">
-            Welcome to HC-Expense Tracker, your go-to solution for effortless financial management! Track expenses, set budgets, and gain insights, all in one place. Join us and simplify your money management today!
+            Welcome to HC-Expense Tracker, your go-to solution for effortless financial management! Track expenses, set budgets, and gain insights, all in one place.
             </p>
           </div>
         </section>
@@ -63,8 +63,7 @@ export default function Page() {
               </h1>
 
               <p className="mt-4 leading-relaxed text-gray-500">
-                Manage Your Expenses <br /> Control your Money <br />
-                Start creating your budget and save ton of money
+       Welcome to HC-Expense Tracker, your go-to solution for effortless financial management! Track expenses, set budgets, and gain insights, all in one place.
               </p>
             </div>
 

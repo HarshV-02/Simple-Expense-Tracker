@@ -31,7 +31,7 @@ export default function Page() {
               Welcome to Expense Tracker
             </h2>
 
-            <p className="mt-4 leading-relaxed text-white/90">
+            <p className="mt-4 my-4 leading-relaxed text-white/90">
             Welcome to HC-Expense Tracker, your go-to solution for effortless financial management! Track expenses, set budgets, and gain insights, all in one place.
             </p>
           </div>
@@ -62,7 +62,7 @@ export default function Page() {
                 Welcome to Expense Tracker
               </h1>
 
-              <p className="mt-4 leading-relaxed text-gray-500">
+              <p className="mt-4 my-4 leading-relaxed text-gray-500">
        Welcome to HC-Expense Tracker, your go-to solution for effortless financial management! Track expenses, set budgets, and gain insights, all in one place.
               </p>
             </div>
